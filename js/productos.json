@@ -1,0 +1,222 @@
+[
+    {
+        "id": "ps4-01",
+        "titulo": "Fifa 23",
+        "imagen": "../img/playstation4/Fifa 2023.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 24999
+    },
+    {
+        "id": "ps4-02",
+        "titulo": "Call of Duty: Infiniti warfare",
+        "imagen": "../img/playstation4/codwarfare.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 17350
+    },
+    {
+        "id": "ps4-03",
+        "titulo": "God of Ware",
+        "imagen": "../img/playstation4/God of War.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 22000
+    },
+    {
+        "id": "ps4-04",
+        "titulo": "GTA V",
+        "imagen": "../img/playstation4/GTA V.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "ps4-05",
+        "titulo": "Hogwarts Legacy",
+        "imagen": "../img/playstation4/hogwarts legacy.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 30500
+    },
+    {
+        "id": "ps4-06",
+        "titulo": "Mafia",
+        "imagen": "../img/playstation4/Mafia.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "ps4-07",
+        "titulo": "Power Rangers",
+        "imagen": "../img/playstation4/powerrangers.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 12400
+    },
+    {
+        "id": "ps4-08",
+        "titulo": "Resident Evil 3",
+        "imagen": "../img/playstation4/Resident Evil 3.jpeg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "ps4-09",
+        "titulo": "Resident Evil 7",
+        "imagen": "../img/playstation4/Resident Evil 7.jpeg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 11350
+    },
+    {
+        "id": "ps4-10",
+        "titulo": "Resident Evil 4",
+        "imagen": "../img/playstation4/resident-evil-4-remake.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 7800
+    },
+    {
+        "id": "ps4-11",
+        "titulo": "Spiderman",
+        "imagen": "../img/playstation4/Sipderman.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "ps4-12",
+        "titulo": "The last of us",
+        "imagen": "../img/playstation4/The last of us.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 4900
+    },
+    {
+        "id": "ps4-13",
+        "titulo": "Tomb Raider",
+        "imagen": "../img/playstation4/Tomb Raider.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "ps4-14",
+        "titulo": "Uncharted 4",
+        "imagen": "../img/playstation4/Uncharted 4.jpg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "ps4-15",
+        "titulo": "Uncharted: The lost Legacy",
+        "imagen": "../img/playstation4/Uncharted The lost Legacy.jpeg",
+        "categoria": {
+            "nombre": "Playstation 4",
+            "id": "ps4"
+        },
+        "precio": 14750
+    },
+    {
+        "id": "ps5-01",
+        "titulo": "Fifa 23",
+        "imagen": "../img/playstation5/fifa2023ps5.jpg",
+        "categoria": {
+            "nombre": "Playstation 5",
+            "id": "ps5"
+        },
+        "precio": 28520
+    },
+    {
+        "id": "ps5-02",
+        "titulo": "Ghost",
+        "imagen": "../img/playstation5/ghost.jpg",
+        "categoria": {
+            "nombre": "Playstation 5",
+            "id": "ps5"
+        },
+        "precio": 22999
+    },
+    {
+        "id": "ps5-03",
+        "titulo": "Returnal",
+        "imagen": "../img/playstation5/returnal.jpg",
+        "categoria": {
+            "nombre": "Playstation 5",
+            "id": "ps5"
+        },
+        "precio": 21699
+    },
+    {
+        "id": "ps5-04",
+        "titulo": "The Crew",
+        "imagen": "../img/playstation5/gt.jpg",
+        "categoria": {
+            "nombre": "Playstation 5",
+            "id": "ps5"
+        },
+        "precio": 7439
+    },
+    {
+        "id": "accesorios-01",
+        "titulo": "Joystick Sony Dualshock 4 Blue",
+        "imagen": "../img/accesorios/jostyck1.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 27900
+    },
+    {
+        "id": "accesorios-02",
+        "titulo": "Base Cargadora Doble 2 Joystick P/ps5",
+        "imagen": "../img/accesorios/cargador.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 7030
+    },
+    {
+        "id": "accesorios-03",
+        "titulo": "Auriculares Gaming c/ Microfono",
+        "imagen": "../img/accesorios/auricular.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 3699
+    }
+]
